@@ -1,4 +1,4 @@
-# MoBanka — C# verzija
+# MoBanka — C#
 
 Namjerno ranjiva bankarska web aplikacija za demonstraciju sigurnosnog testiranja.
 
@@ -22,24 +22,13 @@ dotnet run
 ```
 Otvori browser → http://localhost:5000
 
-### Demo kredencijali
+### Demo korisnici
 - marko / marko123
 - ana / ana456
 - admin / admin123
 
-## Otvaranje u IDE
 
-### Visual Studio 2022
-1. File → Open → Project/Solution
-2. Odaberi MoBanka.csproj
-3. Klikni zeleni gumb Run (F5)
-
-### Visual Studio Code
-1. Instaliraj C# Dev Kit ekstenziju
-2. File → Open Folder → odaberi mobanka-csharp
-3. Terminal → New Terminal → dotnet run
-
-## Ranjivosti (za testiranje — vidi MoBanka_Ranjivosti.docx)
+## Ranjivosti
 
 | # | Ranjivost | Lokacija u kodu |
 |---|-----------|-----------------|
