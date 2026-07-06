@@ -11,10 +11,6 @@ Namjerno ranjiva bankarska web aplikacija za demonstraciju sigurnosnog testiranj
 | Frontend | React 18 (CDN) |
 
 ## Pokretanje
-
-### Preduvjeti
-- .NET SDK 8.0 — preuzmi s https://dotnet.microsoft.com/download
-
 ### Naredbe
 ```
 cd mobanka-csharp
